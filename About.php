@@ -29,7 +29,7 @@
 <body>
 <div class="header">
         <!-- Logo -->
-        <nav id="logo"><a class="navbar-brand" href="#"><img src="assets/images/logo.jpeg"> Find Fortune</a></nav>
+        <nav id="logo"><a class="navbar-brand" href="#"><img src="assets/images/logo.jpeg"> MeshVigor</a></nav>
         <!-- Logo-->
         <input type="checkbox" id="chk">
         <label for="chk" class="show-btn">
@@ -69,7 +69,7 @@
     <div class="header-txt">
         <h1>Donate</h1>
         <h3>for a better world</h3>
-        <p>Find Fortune is a Social, Cultural, Economic, Health, Educational, relief and rural/urban community development organisation. We are committed to the Millennium development goals. Our vision is for a just and compassionate Indian society in which all people will have the opportunity to achieve their optimum potential. </p>
+        <p>MeshVigor is a Social, Cultural, Economic, Health, Educational, relief and rural/urban community development organisation. We are committed to the Millennium development goals. Our vision is for a just and compassionate Indian society in which all people will have the opportunity to achieve their optimum potential. </p>
         <a href="docharity.php">Donate Now</a>
         <a href="contact us.php">Contact Us</a>
     </div>
@@ -77,7 +77,7 @@
     <div class="about-us">
         <hr>
         <h1>ABOUT US</h1>
-        <p>Find Fortune priorities and objectives are to carry out charitable, holistic and sustainable development work among the poor, marginalized, downtrodden, illiterate, vulnerable and the exploited ones, irrespective of their caste, creed, colour or religion. In achieving the same we work in partnership with other national and international NGOs.The vision of Find Fortune is to create a just, equal and peaceful society where everybody shares and cares for the poor,  unprivileged and exploited people and make the world a better place to live in.This is best done by establishing a redeemed, regenerated and progressive society, which will be free from exploitation, injustice and disparities – where the overall development and dignity of every person will be secured, where people can live in peace, solidarity, co-operation and brotherhood and where the rights of each one will be protected. </p>
+        <p>MeshVigor priorities and objectives are to carry out charitable, holistic and sustainable development work among the poor, marginalized, downtrodden, illiterate, vulnerable and the exploited ones, irrespective of their caste, creed, colour or religion. In achieving the same we work in partnership with other national and international NGOs.The vision of MeshVigor is to create a just, equal and peaceful society where everybody shares and cares for the poor,  unprivileged and exploited people and make the world a better place to live in.This is best done by establishing a redeemed, regenerated and progressive society, which will be free from exploitation, injustice and disparities – where the overall development and dignity of every person will be secured, where people can live in peace, solidarity, co-operation and brotherhood and where the rights of each one will be protected. </p>
         <hr>
     </div>
 
@@ -133,7 +133,7 @@
                  <div class="row">
                     <!-- Grid column1 -->
                    <div class="col-md-3 col-sm-6 col-xs-12 segment-one">
-                       <h3>Find Fortune</h3>
+                       <h3>MeshVigor</h3>
                        <p>Hope for Children is an international charity working towards a world where every child has a happy childhood that sets them up for a positive future.</p> 
                                     
                    </div>
@@ -183,7 +183,7 @@
                 </div>
         </div>
          <!-- Copyright -->
-         <p class="footer-bottom-text">All Right reserved by &copy;Find Fortune.2020</p>
+         <p class="footer-bottom-text">All Right reserved by &copy;MeshVigor.2020</p>
          <!-- Copyright -->
     </footer>
     <!-- End Footer -->

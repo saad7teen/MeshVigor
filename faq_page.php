@@ -43,7 +43,7 @@
 
 <div class="header">
         <!-- Logo -->
-        <nav id="logo"><a class="navbar-brand" href="#"><img src="assets/images/logo.jpeg"> Find Fortune</a></nav>
+        <nav id="logo"><a class="navbar-brand" href="#"><img src="assets/images/logo.jpeg"> MeshVigor</a></nav>
         <!-- Logo-->
         <input type="checkbox" id="chk">
         <label for="chk" class="show-btn">
@@ -100,18 +100,18 @@
                     <i class="icon"></i>
                   </a>
                   <p class="text">
-                    “Find-Fortune” is a non-profit organization which directly connect donor with the one for whom he donates. 
+                    “MeshVigor” is a non-profit organization which directly connect donor with the one for whom he donates. 
                   </p>
                 </div>
           
                 <!-- --------------question-2------------ -->
                 <div class="item" id="item2">
                     <a href="#item2" class="title">
-                      <span>What kinds of charities does “Find-Fortune” recommend?</span>
+                      <span>What kinds of charities does “MeshVigor” recommend?</span>
                       <i class="icon"></i>
                     </a>
                     <p class="text">
-                      “Find-Fortune” recommends three types of charities which is for Individual, Emergency and Organizations.
+                      “MeshVigor” recommends three types of charities which is for Individual, Emergency and Organizations.
                     </p>
                 </div>
                 
@@ -174,7 +174,7 @@
                <div class="row">
                   <!-- Grid column1 -->
                  <div class="col-md-3 col-sm-6 col-xs-12 segment-one">
-                     <h3>Find Fortune</h3>
+                     <h3>MeshVigor</h3>
                      <p>Hope for Children is an international charity working towards a world where every child has a happy childhood that sets them up for a positive future.</p> 
                                   
                  </div>
@@ -225,7 +225,7 @@
               </div>
       </div>
        <!-- Copyright -->
-       <p class="footer-bottom-text">All Right reserved by &copy;Find Fortune.2020</p>
+       <p class="footer-bottom-text">All Right reserved by &copy;MeshVigor.2020</p>
        <!-- Copyright -->
   </footer>
   <!-- End Footer -->
